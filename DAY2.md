@@ -22,6 +22,8 @@
 
 ![1](2.PNG)
 
+---
+
 ## $ git add <file>
 
 ```
@@ -48,4 +50,14 @@
 $ git status : Working Directory(1통) or Staging Area(2통)
 
 $ git log : Repository(3통)
+
+
+```
+
+---
+
+## 추가정보
+
+```
+git log 후 END나올 때 q누르기
 ```
